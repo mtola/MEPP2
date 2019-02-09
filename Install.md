@@ -185,7 +185,7 @@ Optional dependencies:
   # OpenMesh
   $ brew install open-mesh
 
-  # XQuartz (X.Org X Window System that runs on OS X) -> needed for OpenSceneGraph
+  # XQuartz (X.Org X Window System that runs on MacOS X) -> needed for OpenSceneGraph
   $ brew install Caskroom/cask/xquartz
 
   # Qt
